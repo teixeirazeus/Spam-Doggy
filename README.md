@@ -21,11 +21,10 @@ pip install -r requirements.txt
 ### train model
 ```python
 from spam_doggy import SpamDoggy
-from datasets.data_loader import load_ashfakyeafi
 
 # Load default training data
 spam_doggy = SpamDoggy()
-spam_doggy.set_train_data(load_ashfakyeafi())
+spam_doggy.set_default_training_data()
 
 # Train the model
 spam_doggy.train(print_report=True)
