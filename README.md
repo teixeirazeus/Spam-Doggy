@@ -1,5 +1,5 @@
-![banner](/readme_assets/banner.png)
-![License](/readme_assets/mit.svg)
+![banner](https://raw.githubusercontent.com/teixeirazeus/Spam-Doggy/main/readme_assets/banner.png)
+![License](https://raw.githubusercontent.com/teixeirazeus/Spam-Doggy/dbd4392b71abfbd0b4b717256d1fcb71c1b7dec6/readme_assets/mit.svg)
 
 # Spam Doggy
 Spam Doggy is a spam classifier that uses a Naive Bayes classifier to classify emails as spam or not spam. It is designed to be easy to use and efficient, leveraging the power of machine learning to accurately identify unwanted emails.
