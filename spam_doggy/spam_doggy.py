@@ -5,7 +5,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score, classification_report
 
-from datasets.data_loader import load_ashfakyeafi
+from .datasets.data_loader import load_ashfakyeafi
 
 
 class SpamDoggy:
